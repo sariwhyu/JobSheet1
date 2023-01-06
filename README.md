@@ -14,7 +14,7 @@
 - [Jobsheet4.4 - ESP Now+IOT](https://github.com/sariwhyu/TugasNo4)
 
 
-# JobSheet 1 DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
+# JobSheet 1 - Dasar Pemrograman ESP32 Untuk Pemrosesan Data Input/Output Analog dan Digital
 
 ## Alat & Bahan
 
